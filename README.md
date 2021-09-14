@@ -5,3 +5,6 @@ Repositorio con el que estamos aprendiendo a manejar git y github en Mision Tic 
 <div align="center">
 Este texto lo agrego Hugo
 </div>
+<div align="center">
+  <p>Este texto lo agrego Juan</p>
+</div>
